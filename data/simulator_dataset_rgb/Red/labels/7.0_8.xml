@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red</folder>
+	<filename>7.0_8.png</filename>
+	<path>C:\Users\Ian\Downloads\merged\merged\red\7.0_8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>690</xmin>
+			<ymin>168</ymin>
+			<xmax>761</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>
